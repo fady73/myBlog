@@ -5,7 +5,7 @@
   "dependencies": {
     "@analytics/segment": "^0.4.1",
     "analytics": "^0.5.5",
-    "firebase": "8.0.1",
+    "firebase": "8.10.1",
     "halogen": "^0.2.0",
     "lodash": "^4.17.4",
     "prop-types": "^15.6.2",
