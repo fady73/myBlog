@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@analytics/segment": "^0.4.1",
+    "@analytics/segment": "^0.6.1",
     "analytics": "^0.8.13",
     "firebase": "8.0.1",
     "halogen": "^0.2.0",
